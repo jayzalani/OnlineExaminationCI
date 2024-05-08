@@ -59,9 +59,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to replace the placeholders with actual content, such as screenshots, instructions, and specific details about your exam simulation system. Good luck with your project! 🚀📝¹²
+Feel free to replace specific details about your exam simulation system. Good luck with your project! 🚀📝¹²
 
 
 
 ¹: [XAMPP Tutorial: how to create your own local test server](https://www.ionos.com/digitalguide/server/tools/xampp-tutorial-create-your-own-local-test-server/)
-²: [Online Examination System In PHP With Free Source Code](https://itsourcecode.com/free-projects/php-project/online-examination-system-in-php/)
+²: [refer to phpdocs for more learnings](https://www.bing.com/ck/a?!&&p=90d25c06df61be4dJmltdHM9MTcxNTEyNjQwMCZpZ3VpZD0xMjNjYTBlMC1kY2EyLTZiNTAtMTk4Yi1iMzczZGQzMTZhNTQmaW5zaWQ9NTIxNg&ptn=3&ver=2&hsh=3&fclid=123ca0e0-dca2-6b50-198b-b373dd316a54&psq=php+docs&u=a1aHR0cHM6Ly93d3cucGhwLm5ldC9kb2NzLnBocA&ntb=1)
